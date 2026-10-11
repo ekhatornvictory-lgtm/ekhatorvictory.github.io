@@ -1,9 +1,5 @@
 # Portfolio Template (Future Imperfect)
 
-A static portfolio site that reproduces the layout and behaviour of
-[angela-825.github.io](https://angela-825.github.io/index.html), built on the
-**Future Imperfect** theme by HTML5 UP. No build step. Open `index.html` in a
-browser to preview it.
 
 ## What you get
 
